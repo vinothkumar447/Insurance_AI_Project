@@ -101,7 +101,7 @@ Feel free to fork this repository and submit a pull request with enhancements, b
 
 **Vinothkumar**  
 📧 Email: [vinuvino789@gmail.com]  
-🔗 LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vinothkumar20/))  
-🐙 GitHub: [github.com/your-username]([https://github.com/your-username](https://github.com/vinothkumar447))
+🔗 LinkedIn: [linkedin.com/in/your-profile]((https://www.linkedin.com/in/vinothkumar20/))  
+🐙 GitHub: [github.com/your-username]((https://github.com/vinothkumar447))
 
 
